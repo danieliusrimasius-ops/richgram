@@ -602,3 +602,4 @@ function UserProfileModal({ username, currentUser, onClose, onMessage, onAddFrie
 }
 
 export default App;
+
